@@ -1,0 +1,578 @@
+================================================================================
+AI-FOR-BUSINESS COURSE BENCHMARK NOTES
+Compiled: April 2026 | Format: Bullet-point reference (not prose)
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+COURSE 1: Wharton AI for Business Specialization (Coursera)
+Institution: University of Pennsylvania / Wharton
+Format: 4-course self-paced specialization | ~16 weeks total | online
+Audience: Non-technical business professionals; explicitly labeled "beginner"
+Source: https://www.coursera.org/specializations/ai-for-business-wharton
+────────────────────────────────────────────────────────────────────────────────
+
+WEEK/TOPIC STRUCTURE (4 courses x 4 weeks each):
+
+Course 1 – AI Fundamentals for Non-Data Scientists
+  - Wk 1: Big Data basics; 3 types of machine learning (supervised/unsupervised/reinforcement)
+  - Wk 2: Algorithm training; neural networks; deep learning
+  - Wk 3: GANs, VAEs; data's role in ML systems
+  - Wk 4: Industry interviews; real-world use cases
+
+Course 2 – AI Applications in Marketing and Finance
+  - Wk 1: Customer journeys; AI behavioral influence
+  - Wk 2: Personalization and recommendation algorithms
+  - Wk 3-4: Credit risk assessment; fraud detection (supervised + unsupervised ML)
+
+Course 3 – AI Applications in People Management
+  - Wk 1: HR decision-making processes
+  - Wk 2: Data types; predictive analytics for talent
+  - Wk 3: Hiring bias; algorithm limitations
+  - Wk 4: Algorithmic bias mitigation; blockchain applications
+
+Course 4 – AI Strategy and Governance
+  - Wk 1: AutoML tools; economic impacts of AI
+  - Wk 2: Big Data implementation strategies
+  - Wk 3: Algorithmic fairness; explainable AI
+  - Wk 4: Ethical frameworks; legal compliance
+
+TOOLS USED:
+  - Teachable Machine (hands-on ML model building, no code)
+  - Explainable AI frameworks (conceptual)
+  - TensorFlow referenced conceptually
+
+ASSESSMENT TYPES:
+  - Weekly video lectures + readings (~2 hrs combined/week)
+  - 1 assignment per week
+  - Peer-reviewed assignments
+  - Digital badge / certificate on completion of specialization
+
+AI LITERACY FOR NON-TECHNICAL STUDENTS:
+  - Explicitly beginner-level; no prerequisites
+  - Instructors explain technical concepts without requiring math/coding background
+  - Real-world business examples anchor every module
+  - No coding required; Teachable Machine provides tactile ML exposure without code
+
+HYBRID EXAM + PROJECT NOTES:
+  - Assessment is entirely assignment-based (no formal exams)
+  - Peer review substitutes for instructor grading on projects
+  - No capstone project identified
+
+────────────────────────────────────────────────────────────────────────────────
+COURSE 2: Wharton MBA Major in AI for Business (degree program)
+Institution: University of Pennsylvania / Wharton
+Format: Full MBA major (launched Fall 2025); 4 credit units
+Audience: MBA students; mix of technical and non-technical
+Source: https://oid.wharton.upenn.edu/artificial-intelligence-mba/
+────────────────────────────────────────────────────────────────────────────────
+
+STRUCTURE (two-pillar model):
+  - Pillar F (Foundations): Technical understanding of AI methods
+  - Pillar I (Impact): Ethical, economic, societal implications
+
+REQUIRED CORE COURSES (1.5 CU):
+  - STAT 7230: Applied Machine Learning in Business (1 CU) — Pillar F
+  - LGST 6420: Big Data, Big Responsibilities: Toward Accountable AI (0.5 CU) — Pillar I
+
+ELECTIVES (2.5 CU):
+  - Pillar F electives: Data science, Python, optimization, deep learning; applied across finance/marketing/healthcare/ops
+  - Pillar I electives: Technology strategy, innovation, health AI, behavioral science, digital marketing analytics, societal impact
+
+TOOLS/SKILLS MENTIONED:
+  - Python programming (elective)
+  - Applied ML platforms (elective-dependent)
+
+ASSESSMENT TYPES:
+  - Course-dependent (not publicly specified per course)
+  - Ethics requirement anchors the curriculum
+
+AI LITERACY FOR NON-TECHNICAL STUDENTS:
+  - Dual-pillar design separates technical track (Pillar F) from conceptual/impact track (Pillar I)
+  - Non-technical students can weight toward Pillar I electives
+  - Ethics course required for ALL students regardless of technical background
+
+HYBRID EXAM + PROJECT NOTES:
+  - Not publicly specified at major level; varies by course
+  - Faculty advisors: Prof. Prasanna Tambe (OIDD), Prof. Giles Hooker (STAT)
+
+────────────────────────────────────────────────────────────────────────────────
+COURSE 3: Wharton AI for Business (Executive Education)
+Institution: University of Pennsylvania / Wharton Executive Education
+Format: Self-paced online | 4-6 weeks | ~2 hrs/week | $850 | 1 CEU
+Audience: Business leaders, managers, executives; no technical background needed
+Source: https://executiveeducation.wharton.upenn.edu/for-individuals/all-programs/ai-for-business/
+────────────────────────────────────────────────────────────────────────────────
+
+WEEK/TOPIC STRUCTURE (5 modules):
+  - Module 1: Big Data Fundamentals — origins, analysis, data management, predictive analytics
+  - Module 2: AI & Machine Learning Essentials — AI history, ML types, logistic regression, decision trees, neural nets
+  - Module 3: Real-World ML Applications — personalization, fraud detection, autonomous vehicles, recommender systems
+  - Module 4: AI Strategy & Governance — portfolio approaches, org behavior, risk management, governance frameworks
+  - Module 5: Generative AI — LLMs, GPT-4 applications, prompt engineering, competitive advantage, ethics
+
+TOOLS USED:
+  - GPT-4 / ChatGPT (referenced)
+  - Prompt engineering (introduced conceptually)
+
+ASSESSMENT TYPES:
+  - Score >=70% to earn 1 CEU + digital badge
+  - Shareable LinkedIn credential on completion
+
+AI LITERACY FOR NON-TECHNICAL STUDENTS:
+  - Designed for general business audiences with no technical prerequisites
+  - Uses "real-life examples" throughout
+  - Emphasizes foundational understanding over technical depth
+
+HYBRID EXAM + PROJECT NOTES:
+  - Assessment appears quiz/scoring-based (no project component found)
+  - No capstone or exam identified
+
+────────────────────────────────────────────────────────────────────────────────
+COURSE 4: MIT Sloan — AI: Implications for Business Strategy (GetSmarter/edX)
+Institution: MIT Sloan School of Management + MIT CSAIL
+Format: Online | 6 weeks + orientation | 6-8 hrs/week | certificate
+Audience: Non-technical business professionals; mid-to-senior level
+Source: https://executive.mit.edu/course/artificial-intelligence/a056g00000URaa3AAD.html
+────────────────────────────────────────────────────────────────────────────────
+
+WEEK/TOPIC STRUCTURE:
+  - Orientation: Platform onboarding; cohort introductions; capstone focus area selection
+  - Week 1: AI Foundations — how AI works at high level; why it matters for business; cohort discussion on industry impact
+  - Week 2: Machine Learning Applications — case study analysis; when ML makes sense; data requirements; common pitfalls
+  - Week 3: Generative AI (updated for 2026) — LLMs, ChatGPT; practical business applications; limitations and risks
+  - Week 4: Robotics & Automation — autonomous systems, drones, RPA; begin capstone roadmap outline
+  - Week 5: Ethics & Governance — algorithmic bias, privacy, job displacement, AI governance; refine roadmap
+  - Week 6: Future Trends + Capstone — finalize personalized AI roadmap; peer presentation of findings
+
+TOOLS USED:
+  - ChatGPT / LLMs (week 3; conceptual, not hands-on coding)
+  - GetSmarter Online Campus platform
+  - Discussion forums + peer collaboration
+
+ASSESSMENT TYPES:
+  - Weekly assignments (one per module)
+  - Group/cohort discussions
+  - Capstone: personalized AI Roadmap (strategic plan for implementing AI in own org)
+  - Peer review of capstone presentations
+  - Certificate of completion from MIT Sloan
+
+AI LITERACY FOR NON-TECHNICAL STUDENTS:
+  - Explicitly focuses on organizational/managerial implications, not technical aspects
+  - No coding; no math prerequisites
+  - Dedicated Success Adviser for admin, time management, and technical issues
+  - Weekly module release with flexible but structured deadlines
+
+HYBRID EXAM + PROJECT NOTES:
+  - Capstone = primary summative assessment (AI Roadmap project)
+  - No formal exam; continuous assessment through weekly assignments
+  - Capstone designed to be immediately actionable at workplace
+
+────────────────────────────────────────────────────────────────────────────────
+COURSE 5: Harvard Business School — AI Essentials for Business (HBS Online)
+Institution: Harvard Business School
+Format: Online | 4 weeks | self-paced | certificate
+Audience: Business professionals; designed for general audiences
+Instructors: Karim Lakhani + Marco Iansiti (co-authors: Competing in the Age of AI)
+Source: https://online.hbs.edu/courses/ai-essentials-for-business
+────────────────────────────────────────────────────────────────────────────────
+
+WEEK/TOPIC STRUCTURE (4 modules):
+  - Module 1: AI Factory & Operating Models (5-6 hrs)
+    -> AI-powered firm characteristics; impact on business + operating models; AI factory components
+  - Module 2: Generative AI & Digital Transformation (4-5 hrs)
+    -> Science behind generative AI; incorporating into business processes; traditional vs. AI-powered firms collision
+  - Module 3: Network Effects & Ethics (5-6 hrs)
+    -> Network and learning effects on business strategy; creating value; ethical considerations + mitigation strategies
+  - Module 4: Capstone/integration (not fully public)
+
+TOOLS USED:
+  - HBS Online platform (HBX)
+  - Case method adapted for online learning
+  - New activity every 3-5 minutes (polls, quizzes, problem-solving)
+
+ASSESSMENT TYPES:
+  - Polls, quizzes, and problem-solving exercises (within modules)
+  - Must complete all 4 modules + exercises for certificate
+  - Certificate of Completion from HBS Online
+  - Optional: Certificate of Specialization (complete any 3 courses in digital transformation/AI subject area)
+  - NOTE: Harvard now requires ALL MBA students to complete AI course to graduate (2025 mandate)
+
+AI LITERACY FOR NON-TECHNICAL STUDENTS:
+  - No technical prerequisites
+  - Framework-based learning (not hands-on tool building)
+  - Anchored in business strategy (Lakhani/Iansiti's "Competing in the Age of AI")
+  - "AI Factory" concept provides accessible mental model for AI-driven orgs
+
+HYBRID EXAM + PROJECT NOTES:
+  - Assessment is activity-based (not exam-based)
+  - High interactivity every 3-5 min replaces traditional exam structure
+  - No standalone capstone project found
+
+────────────────────────────────────────────────────────────────────────────────
+COURSE 6: Stanford GSB — Harnessing AI for Breakthrough Innovation
+Institution: Stanford Graduate School of Business (Executive Education)
+Format: In-person | 5-day intensive | interdisciplinary
+Audience: Business executives; non-technical
+Source: https://www.gsb.stanford.edu/exec-ed/programs/harnessing-ai-breakthrough-innovation-strategic-impact
+────────────────────────────────────────────────────────────────────────────────
+
+WEEK/TOPIC STRUCTURE (5-day immersive; themes confirmed):
+  - How AI improves efficiencies; customer insights; new product ideation
+  - Ethical, legal, workforce, and social implications of AI
+  - Communicating AI strategy to organization
+  - Group projects: potential AI applications for own organization
+  - AI lab visit (Stanford facility)
+  - MBA program: ~36 courses integrate AI or ML in 2025-26 (up from 20 in 2024-25)
+  - Key MBA courses: "The AI-Powered Org: Evolution, Rebirth, or Death?", "AI for Human Flourishing"
+
+TOOLS USED:
+  - AI lab demonstrations (Stanford facility)
+  - Group project work
+  - Guest speakers from industry
+
+ASSESSMENT TYPES:
+  - Group project: AI application design for participant's own org
+  - No formal exam in executive education format
+  - Certificate of completion
+
+AI LITERACY FOR NON-TECHNICAL STUDENTS:
+  - Faculty from across Stanford (Business, HAI, Engineering, Law, Medicine, Humanities)
+  - Explicitly designed to "demystify AI in a non-technical way"
+  - HAI (Human-Centered AI Institute) involvement ensures accessible framing
+  - Critical AI literacy initiative across all MBA tracks regardless of background
+
+HYBRID EXAM + PROJECT NOTES:
+  - Project-only format for exec ed
+  - No exam component
+  - Group-based deliverable (AI application design)
+
+────────────────────────────────────────────────────────────────────────────────
+AGENTIC AI FRAMEWORK: Johns Hopkins — Agentic AI Certificate Program
+Institution: Johns Hopkins University (with Great Learning)
+Format: Online | 16 weeks | ~10-12 hrs/week | 11 CEUs
+Audience: Mix of technical and business; Python required but not deep expertise
+Source: https://online.lifelonglearning.jhu.edu/jhu-certificate-program-agentic-ai
+────────────────────────────────────────────────────────────────────────────────
+
+STRUCTURE (16 weeks):
+  - Pre-work: Evolution from ML -> DL -> NLP -> GenAI -> Agentic AI; foundational Python
+  - Core: Agentic AI fundamentals; differences from other AI paradigms; planning models (ReAct, Chain of Thought)
+  - Architecture: Symbolic, BDI, LLM-based agent design; multi-agent systems
+  - Advanced: Reinforcement learning in agents; human-agent interaction; future of AI
+
+WEEKLY RHYTHM:
+  - New content released weekly
+  - Live weekend session each week
+  - Graded quiz every week
+  - Project submission every few weeks (3 projects total)
+
+TOOLS USED:
+  - Python + AI libraries (LangChain-type tools implied)
+  - LLM-based agent frameworks (ReAct, CoT)
+  - Real-world agent building platforms
+
+ASSESSMENTS:
+  - Project 1: Smart Data Processing Agent (automating expense bill processing)
+  - Project 2: Automated Research Agent (multi-source synthesis)
+  - Project 3: Customer Support Chatbot (knowledge base integration)
+  - Weekly graded quizzes
+  - Live mentored sessions + masterclasses
+
+AI LITERACY FOR NON-TECHNICAL STUDENTS:
+  - More technical than other programs listed; Python required
+  - Business context emphasized for each project
+  - Industry expert sessions bridge technical <-> business gap
+  - Closest business-facing agentic AI curriculum found
+
+AGENTIC AI DESIGN PATTERNS TAUGHT:
+  - Reflection (assess + improve past performance)
+  - Tool use (process data; complete tasks)
+  - Planning (step-by-step goal decomposition)
+  - Multi-agent collaboration
+
+────────────────────────────────────────────────────────────────────────────────
+AGENTIC AI FRAMEWORK: MIT Professional Education — Applied Agentic AI
+Institution: MIT Professional Education
+Format: Online | 8 weeks | $3,200 | 7 CEUs | No coding required
+Audience: Mid-to-senior working professionals; no AI or programming experience needed
+Source: https://professional.mit.edu/course-catalog/applied-agentic-ai-organizational-transformation
+────────────────────────────────────────────────────────────────────────────────
+
+STRUCTURE (8 weeks):
+  - Core AI principles and agentic systems overview
+  - Identifying AI application opportunities in business
+  - Integrating AI into digital ecosystems
+  - Designing agent workflows (strategic, not hands-on coding)
+  - Evaluating AI platforms and vendor selection
+  - Ethics, regulatory compliance, governance
+  - Developing strategic AI roadmap / executive adoption plan
+
+TOOLS USED:
+  - No specific tools listed; platform-agnostic framing
+  - Expert-led sessions + real-world case examples
+  - Hands-on projects (strategic, not technical)
+
+ASSESSMENTS:
+  - Hands-on projects (strategic deliverables)
+  - Final: Strategic AI roadmap or executive adoption plan
+
+AI LITERACY FOR NON-TECHNICAL STUDENTS:
+  - Explicitly "no coding required"
+  - Targets decision-makers who don't need to build AI tools
+  - Combines business strategy + AI governance + operational thinking
+
+HYBRID EXAM + PROJECT NOTES:
+  - Project-only assessment (roadmap deliverable)
+  - No exam component
+
+────────────────────────────────────────────────────────────────────────────────
+PUBLISHED FRAMEWORKS: AI Literacy for Non-Technical Business Audiences
+────────────────────────────────────────────────────────────────────────────────
+
+FRAMEWORK 1: Digital Education Council (DEC) AI Literacy Framework (March 2025)
+Source: https://www.digitaleducationcouncil.com/post/digital-education-council-ai-literacy-framework
+
+5 Dimensions:
+  1. Understanding AI and Data — how AI works; data collection, processing, interpretation
+  2. Critical Thinking and Judgment — evaluating AI content; discerning bias; reasoning in AI-assisted decisions
+  3. Ethical and Responsible AI Use — governance frameworks; ethics principles; risk recognition
+  4. Human-Centricity, Emotional Intelligence & Creativity — empathy, adaptability, communication, lifelong learning
+  5. [5th dimension referenced but not fully named in public sources — check primary document]
+
+Competency Levels (per dimension):
+  - Level 1: Awareness
+  - Level 2: In Action
+  - Level 3: Optimization
+
+Notes:
+  - Higher ed focused; provides faculty + studentpathways
+  - Actionable benchmarks for curriculum design
+
+FRAMEWORK 2: U.S. Department of Labor AI Literacy Framework (Feb 2026)
+Source: https://www.dol.gov/newsroom/releases/eta/eta20260213
+
+Key principles:
+  - Voluntary guidance for evaluating high-quality AI literacy content
+  - Hands-on use identified as most effective learning mode
+  - Industry-contextualized examples strongly recommended
+  - Supports workforce development contexts
+
+FRAMEWORK 3: Generative AI Literacy — 12 Defining Competencies (arxiv, Dec 2024)
+Source: https://arxiv.org/html/2412.12107v1
+
+Selected competencies (business-relevant):
+  - Prompt engineering
+  - Output evaluation and verification
+  - Bias detection
+  - Ethical use and attribution
+  - Understanding model limitations
+  - Using AI for productivity and automation
+
+FRAMEWORK 4: AI Literacy Development Canvas (ScienceDirect, 2025)
+Source: https://www.sciencedirect.com/science/article/pii/S0007681325001673
+
+  - Organizational tool: assess current competencies -> define goals -> design training -> track progress
+  - Assessment matrix + training roadmap combined
+  - Applicable to business school curriculum design
+
+────────────────────────────────────────────────────────────────────────────────
+CROSS-COURSE PATTERNS & DESIGN INSIGHTS
+────────────────────────────────────────────────────────────────────────────────
+
+TOPIC SEQUENCE ACROSS PROGRAMS (most common order):
+  1. AI/ML Foundations (what is AI; types of ML)
+  2. Generative AI & LLMs (ChatGPT, prompt engineering)
+  3. Functional applications (marketing, finance, HR, operations)
+  4. Strategy & governance (AI roadmap, portfolio, vendor eval)
+  5. Ethics, bias, regulation
+  6. Capstone / synthesis
+
+TOOLS APPEARING ACROSS COURSES:
+  - ChatGPT / GPT-4 (most common; Wharton Exec Ed, MIT, HBS)
+  - Prompt engineering (Wharton Exec Ed, MIT Week 3, JHU)
+  - Teachable Machine (Wharton Coursera; no-code ML exposure)
+  - Capstone roadmap document (MIT Sloan, MIT ProfEd, HBS adjacent)
+  - Case-based learning (HBS Online, Stanford GSB)
+
+ASSESSMENT APPROACHES (ranked by frequency):
+  - Project/roadmap-only: MIT Sloan, MIT ProfEd, Stanford GSB (most common)
+  - Activity/quiz-based: HBS Online (every 3-5 min), Wharton Exec Ed (score >=70%)
+  - Hybrid (project + weekly quizzes): JHU Agentic AI (3 projects + weekly quizzes)
+  - Peer-reviewed assignments: Wharton Coursera
+  - FINDING: No major program uses traditional written exams as primary assessment
+  - Most common summative = org-specific AI strategy/roadmap document
+
+AI LITERACY STRATEGIES FOR NON-TECHNICAL STUDENTS (common patterns):
+  - Anchor content in business outcomes, not technical mechanics
+  - Use accessible mental models (HBS "AI Factory"; MIT "AI Roadmap")
+  - Case studies from recognizable industries (finance, HR, marketing, healthcare)
+  - No-code tools (Teachable Machine, ChatGPT prompting) for hands-on feel
+  - Dual-track design (Wharton Pillar F vs. I) separates technical + conceptual paths
+  - Explicit "no coding required" statement (MIT ProfEd, MIT Sloan, Wharton Exec Ed)
+  - Ethics + governance included regardless of technical level
+
+AGENTIC AI IN BUSINESS CURRICULA — STATUS (2026):
+  - JHU: Most complete business-facing agentic AI cert (but requires Python)
+  - MIT ProfEd: Business-oriented, no coding; strategic framing only
+  - Coursera: "Agentic AI and AI Agents for Leaders" (Vanderbilt-led)
+  - DeepLearning.AI: Agentic AI patterns — primarily technical, not business-focused
+  - GAP: No mainstream top-10 business school offers non-technical agentic AI course
+    with BOTH conceptual AND hands-on components
+
+DURATION PATTERNS:
+  - 4 weeks:  HBS Online (AI Essentials)
+  - 5 days:   Stanford GSB (in-person intensive)
+  - 6 weeks:  MIT Sloan (AI Implications), MIT AI Adoption
+  - 8 weeks:  MIT ProfEd (Agentic AI)
+  - 16 weeks: JHU Agentic AI Certificate
+
+REQUIRED vs. ELECTIVE (MBA programs):
+  - Harvard MBA: AI now REQUIRED to graduate (2025 mandate)
+  - Wharton: AI major available (optional); ethics course required within major
+  - Stanford: AI woven into existing courses (~36 in 2025-26); no standalone mandate found
+  - Cornell Johnson: AI integrated into core Data Modeling + Analytics (2nd semester MBA core)
+
+────────────────────────────────────────────────────────────────────────────────
+ADDITIONAL BENCHMARKS (April 2026 research update)
+────────────────────────────────────────────────────────────────────────────────
+
+COURSE 7: Kellogg (Northwestern) — AI Strategies for Business Transformation
+Institution: Kellogg Executive Education / Emeritus platform
+Format: Online | 9 weeks, 8 modules | 4-6 hrs/week | certificate
+Audience: Mid-to-senior business leaders; no technical background required
+Source: https://www.kellogg.northwestern.edu/executive-education/individual-programs/online-programs/ais.aspx
+
+WEEK/MODULE STRUCTURE (8 modules over 9 weeks):
+  - Module 1: AI evolution — from prediction to creation to autonomy
+  - Module 2: AI and customer experience management
+  - Module 3: AI and operations management
+  - Module 4: AI in business support functions (HR, finance, IT)
+  - Module 5: AI applications across industries (healthcare, retail, finance)
+  - Module 6: Generative AI in creative industries
+  - Module 7: Business transformation, capabilities, and governance
+  - Module 8: AI's societal impact, ethics, and future of work
+
+TOOLS USED:
+  - AI Canvas 2.0 (framework for scoping AI use cases; used for capstone)
+  - AI Radar 2.0 (landscape mapping tool)
+  - AI Capability Maturity Model (CMM)
+  - Video lectures + live webinars (recorded for async access) + case studies
+  - Delivery via Emeritus platform
+
+ASSESSMENT TYPES:
+  - Weekly mastery quizzes at module conclusion
+  - Assignments/exercises with 7-14 day submission windows
+  - Discussion board participation (reviewed by program leaders)
+  - Capstone project: draft organizational AI strategy using AI Canvas framework
+  - Pass/fail: 80% required for certificate (highest threshold of all programs benchmarked)
+
+AI LITERACY FOR NON-TECHNICAL STUDENTS:
+  - Frameworks over code: AI Canvas, AI Radar, CMM are visual/strategic tools
+  - 4-6 hrs/week; flexible pacing
+  - Live webinars recorded — fully async option available
+  - Case studies normalize AI for diverse business functions
+
+HYBRID EXAM + PROJECT NOTES:
+  - Closest to true hybrid: weekly quizzes (ongoing assessment) + capstone project
+  - 80% quiz threshold + capstone = both components required
+  - Agentic AI concepts (AI agents, value propositions) added in 2025-2026 update
+
+────────────────────────────────────────────────────────────────────────────────
+COURSE 8: Yale SOM — MGT 899: Generative AI & Entrepreneurship
+Institution: Yale School of Management
+Format: MBA elective | 7 weeks | Mon 6-9 PM (evening)
+Audience: MBA students; blended technical + non-technical
+Instructor: Anand Ranganathan, Engineering Manager at Bridgewater Associates
+Source: https://som.yale.edu/story/2025/curriculum-focus-generative-ai-entrepreneurship
+
+WEEK/TOPIC STRUCTURE (7 weeks):
+  - Prompt engineering and LLM interaction (hands-on)
+  - Agentic AI systems and multi-agent workflows
+  - Multimodal search and generation capabilities
+  - Chatbot development (prototype work)
+  - Identifying AI-driven entrepreneurial opportunities
+  - Competitive landscape analysis of Gen AI startups
+  - Market analysis, customer acquisition, regulatory/ethical considerations
+
+TOOLS USED:
+  - Prompt engineering tools (hands-on)
+  - Multimodal AI platforms (image, text, search)
+  - Chatbot development frameworks
+  - Guest speakers: Connecticut Innovations, IBM, Galileo, J&J, Kroger, Syneos Health
+
+ASSESSMENT TYPES:
+  - Centerpiece: team-based capstone project
+    -> Complete pitch deck for a new Gen AI venture
+    -> Working prototype/demo required (unique vs. all other programs)
+  - Blend of hands-on development + market analysis assignments
+  - Guest speaker sessions
+
+AI LITERACY FOR NON-TECHNICAL STUDENTS:
+  - Blended approach: technical hands-on (chatbot, prompting) + strategic (market, pitch)
+  - Industry guests bridge technical-business gap
+  - No explicit prerequisites; accessible by design
+
+HYBRID EXAM + PROJECT NOTES:
+  - Only program requiring working AI prototype as deliverable
+  - No formal exam; project-only summative
+  - Multi-agent workflows at MBA level — most advanced content of all programs benchmarked
+
+────────────────────────────────────────────────────────────────────────────────
+FRAMEWORK: AACSB — AI in Business Education (January 2026)
+Source: https://www.aacsb.edu/insights/reports/2026/a-framework-for-artificial-intelligence-in-business-education
+Scope: Evidence from 48 business schools; captures shift from experimentation to implementation
+
+8 CONVERGENT THEMES:
+  1. Comprehensive ecosystems — infrastructure for coordination + sustainability
+  2. Democratized AI education — AI literacy across ALL learning pathways, not specialist tracks only
+  3. Domain-specific applications — AI embedded in discipline-specific courses (finance, marketing, ops)
+  4. Faculty development — identified as THE critical success factor
+  5. Responsible AI and ethics — integrated throughout curricula (not standalone)
+  6. Strategic partnerships — industry + peer institution collaboration
+  7. Pedagogical innovation — transforming HOW learning happens
+  8. Leadership in transformation — balancing urgency with institutional values
+
+IMPLICATIONS FOR NON-TECHNICAL CURRICULUM:
+  - AI literacy = foundational competency, not specialized elective
+  - Ethics embedded in every module; never siloed at end
+  - Domain application skills > generic AI knowledge
+  - Assessment should reflect application (projects) not recall (exams)
+  - Faculty capability is the bottleneck — design curriculum faculty can teach
+
+────────────────────────────────────────────────────────────────────────────────
+SUPPLEMENTAL PATTERNS FROM ADDITIONAL RESEARCH
+────────────────────────────────────────────────────────────────────────────────
+
+AGENTIC AI GAP (confirmed across all sources):
+  - No mainstream top-10 business school currently offers non-technical agentic AI course
+    with BOTH conceptual AND hands-on components for general MBA audience
+  - Yale SOM (MGT 899): closest — covers multi-agent workflows, but requires prototype building
+  - MIT ProfEd (Agentic AI): no coding, but strategic/conceptual only (no hands-on tool exploration)
+  - Kellogg: added AI agents module in 2025-2026, but framed strategically only
+  - GAP = differentiation opportunity for a new course
+
+ASSESSMENT EVOLUTION ACROSS ALL PROGRAMS:
+  - FINDING: No major business school program uses written exams as primary assessment
+  - Dominant summative: org-specific AI strategy document or roadmap
+  - Secondary: prototype/pitch deck (Yale SOM), quizzes+capstone hybrid (Kellogg, JHU)
+  - Implication: hybrid exam + project model should position project as primary, quiz as formative
+
+TOOL PHILOSOPHY:
+  - Universal: conceptual understanding of tools > hands-on implementation
+  - Where hands-on exists: prompt engineering (lowest barrier), Teachable Machine (no-code ML)
+  - Framework tools (AI Canvas, AI Radar) function as non-technical scaffolding equivalents
+  - ChatGPT/LLM access built into multiple programs as standard (Wharton: enterprise license)
+
+DURATION NORMS CONFIRMED:
+  - 4 weeks: HBS Online (AI Essentials) — most condensed
+  - 5 days: Stanford GSB exec ed intensive
+  - 6 weeks: MIT Sloan (AI Implications)
+  - 7 weeks: Yale SOM MBA elective
+  - 8-9 weeks: Kellogg, MIT ProfEd (agentic)
+  - 16 weeks: JHU Agentic AI Certificate
+  - SWEET SPOT for professional/executive format: 6-8 weeks
+
+================================================================================
+END OF BENCHMARK NOTES
+================================================================================
+

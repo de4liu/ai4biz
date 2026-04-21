@@ -1,16 +1,16 @@
-# IDSC 4101: Generative and Agentic AI for Business
+# IDSC 4101: Agentic AI for Business Applications
 ## Course Syllabus
 
 ---
 
 ### Course Information
 
-**Course Title:** Generative and Agentic AI for Business  
+**Course Title:** Agentic AI for Business Applications  
 **Course Number:** IDSC 4101  
 **Credits:** 2 credit hours  
 **Meeting Pattern:** Two sessions per week, 100 minutes per session  
 **Duration:** 7 weeks (14 total sessions)  
-**Prerequisites:** Junior or Senior standing; any business major or concentration  
+**Prerequisites:** IDSC 3001 or instructor consent  
 **Coding Required:** None  
 
 ---
@@ -30,11 +30,13 @@
 
 ### Course Description
 
-Artificial intelligence is no longer a technology story — it is a business transformation story. This course equips upper-division business students with the conceptual foundations, strategic frameworks, and hands-on fluency to understand, evaluate, and deploy generative and agentic AI in organizational contexts. Moving well beyond prompt engineering, students will develop working knowledge of how large language models function, how AI agents perceive and act on their environments, and how no-code automation platforms enable businesses to redesign workflows, products, and services without writing a single line of code.
+Artificial intelligence is no longer a technology story — it is a business transformation story. This course equips upper-division business students with the strategic frameworks, conceptual depth, and hands-on fluency to understand, evaluate, and deploy agentic AI in real organizational contexts. Students enter with prior experience using generative AI tools; this course accelerates past the basics to focus on where AI is going next: autonomous systems that plan, act, and coordinate without constant human direction.
 
-Over seven weeks, students progress from foundational AI literacy through applied automation and agentic system design, culminating in a team capstone that demonstrates a real business use case. The course integrates tools from the Google Gemini ecosystem, no-code builders such as Zapier, Make, and Relevance AI, and agentic platforms including n8n and Voiceflow. Students will also engage with the strategic and ethical dimensions of AI adoption — workforce impact, governance, vendor selection, and responsible deployment — preparing them for roles in which AI fluency is increasingly a baseline expectation regardless of functional area.
+Over seven weeks, students progress rapidly through advanced generative AI techniques and enterprise deployment models, then spend three full weeks on the core subject: agentic AI. Students will learn how AI agents perceive and act on their environments, how multi-agent systems coordinate complex tasks, how organizations design for human oversight and failure recovery, and how to evaluate agentic AI for real business deployment — from design through governance. The course culminates in a cross-major team capstone pitch presenting an agentic AI solution for a specific business sector.
 
-This course is designed for students across all business concentrations — marketing, finance, management, operations, entrepreneurship, and supply chain — and requires no prior technical or programming background.
+The course integrates tools from the Google Gemini ecosystem (including multi-modal and AI Studio capabilities), no-code workflow builders such as Zapier, Make, and Relevance AI, and agentic platforms including n8n and Voiceflow. Students will also engage with the strategic and ethical dimensions of AI adoption — enterprise governance, vendor selection, security, responsible deployment, and workforce implications — preparing them for roles in which AI fluency is a baseline professional expectation.
+
+This course is designed for students across all Carlson concentrations — Marketing, Finance, Accounting, SCO, HRIR, MIS, Entrepreneurship, International Business, and Business Analytics — and requires no prior technical or programming background.
 
 ---
 
@@ -66,13 +68,14 @@ By the end of this course, students will be able to:
 
 ### Prerequisites
 
-- Junior or Senior standing required
-- Any business concentration accepted (marketing, finance, management, operations, supply chain, entrepreneurship, or undeclared)
+- **Required:** IDSC 3001 (Information Systems & Digital Transformation) or instructor consent
+- Recommended standing: Junior or Senior; late Sophomores who have completed IDSC 3001 may enroll with instructor approval
+- Any Carlson major or concentration accepted (Marketing, Finance, Accounting, SCO, HRIR, MIS, Entrepreneurship, International Business, Business Analytics, or undeclared)
 - No prior coursework in computer science, data science, or programming required or assumed
 - Basic comfort with cloud-based software (Google Workspace, Microsoft 365, or equivalent) is helpful but not required
 - Students are expected to bring intellectual curiosity and willingness to experiment with emerging tools
 
-Recommended (not required): One prior course in business strategy, organizational behavior, or management information systems will provide helpful context for weeks 5–7.
+Recommended (not required): BA 3551 (Business Analytics) provides helpful data literacy context for Weeks 5–7 use cases.
 
 ---
 

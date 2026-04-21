@@ -1,4 +1,4 @@
-# IDSC 4101: Generative and Agentic AI for Business
+# IDSC 4101: Agentic AI for Business Applications
 ## Assessments, Capstone, and Course Policies
 
 ---
@@ -200,5 +200,5 @@ Assignments submitted late without prior instructor approval are penalized 10% p
 
 ---
 
-*End of Syllabus — IDSC 4101: Generative and Agentic AI for Business*
+*End of Syllabus — IDSC 4101: Agentic AI for Business Applications*
 
